@@ -1,2 +1,3 @@
 # SpringCRUD
-A simple CRUD made with java Spring Boot.
+
+A simple CRUD API made with java Spring Boot.
